@@ -1,1 +1,1 @@
-console.log('Hello Jenkins from Node.js!')
+console.log('Hello from Jenkins + GitHub Integration!');
